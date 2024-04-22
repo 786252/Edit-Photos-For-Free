@@ -24,8 +24,7 @@
   },
   "devDependencies": {
     "vue-plugin-load-script": "^1.2.0"
-  }
-}
+},
 "scripts": {
     "start": "react-scripts --openssl-legacy-provider start"
     "build": "react-scripts --openssl-legacy-provider build"
